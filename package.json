@@ -1,0 +1,25 @@
+{
+  "name": "pi_loader",
+  "version": "1.0.0",
+  "description": "Unofficial wrapper for the pi SDK",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheWisePigeon/pi_node.git"
+  },
+  "keywords": [
+    "sdk",
+    "pi",
+    "pi",
+    "network"
+  ],
+  "author": "TheWisePigeon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheWisePigeon/pi_node/issues"
+  },
+  "homepage": "https://github.com/TheWisePigeon/pi_node#readme"
+}
